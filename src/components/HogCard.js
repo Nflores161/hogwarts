@@ -2,11 +2,6 @@ import React, { Component } from "react";
 import HogDetails from './HogDetails'
 
 
-
-
-
-
-
 class HogCard extends Component {
 
   state = {

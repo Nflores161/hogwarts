@@ -6,9 +6,6 @@ import HogContainer from "./HogContainer";
 import Filter from './Filter'
 
 
-
-
-
 class App extends Component {
 
   state = {
